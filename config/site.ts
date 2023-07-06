@@ -1,7 +1,7 @@
 export type SiteConfig = typeof siteConfig
 
 export const siteConfig = {
-  name: 'Zhangs',
+  name: 'wukong',
   description: 'just a desc',
   mainNav: [
     {
@@ -9,8 +9,12 @@ export const siteConfig = {
       href: '/',
     },
     {
-      title: 'tsi',
-      href: '/tsi',
+      title: 'daisy',
+      href: '/daisy',
+    },
+    {
+      title: 'case',
+      href: '/case',
     },
   ],
   links: {
